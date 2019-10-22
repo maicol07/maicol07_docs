@@ -1,6 +1,6 @@
 ---
-id: translators-guide
-title: Translators guide
+id: translating-projects
+title: Translating projects
 ---
 
 If you came here across the web, you want to become one of our translators. As you may know, we offer community-crowded translations, which means that our translations are made by community users like you.

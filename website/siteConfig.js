@@ -27,8 +27,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
 	// Links to document with id doc1 for current language/version
-    //{doc: 'intro', label: 'Docs'},
-    {doc: 'translators-guide', label: 'Translators Guide'},
+    {doc: 'introduction', label: 'Docs'},
+    {doc: 'translating-projects', label: 'Translators Guide'},
 	// Link to page found at pages/en/help.js or if that does not exist, pages/help.js, for current language
     {page: 'help', label: 'Help'},
 	// Determines search bar position among links

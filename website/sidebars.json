@@ -11,7 +11,8 @@
             }
         ],
         "Translating projects": [
-            "translators-guide"
+            "translating-projects",
+            "translating-docs"
         ]
     }
 }
