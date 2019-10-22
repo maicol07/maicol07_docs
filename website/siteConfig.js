@@ -8,18 +8,6 @@
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
-// List of projects/orgs using your project for the users page.
-/*const users = [
-  {
-    caption: 'School Life Diary',
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
-];*/
-
 const siteConfig = {
   title: 'Maicol07 Docs', // Title for your website.
   tagline: 'Documentation for all Maicol07 Projects',
@@ -53,14 +41,14 @@ const siteConfig = {
   // users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
+  headerIcon: 'img/icon.png',
+  footerIcon: 'img/icon.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#1d9c67',
-    secondaryColor: '#146d48',
+    primaryColor: '#4D698E',
+    secondaryColor: '#00428e',
   },
 
   /* Custom fonts for website */

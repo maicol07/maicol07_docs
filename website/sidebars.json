@@ -1,8 +1,17 @@
 {
-  "docs": {
-    "Translators Guide": ["translators-guide"]
-  },
-  "docs-other": {
-    "Translating projects": ["translators-guide"]
-  }
+    "docs": {
+        "Docs": [
+            "introduction",
+            {
+                "type": "subcategory",
+                "label": "Maicol07 Account",
+                "ids": [
+                    "twofactor"
+                ]
+            }
+        ],
+        "Translating projects": [
+            "translators-guide"
+        ]
+    }
 }
