@@ -17,9 +17,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm run build
-      with:
-        cmd: npm run build
+    - name: ZEIT now BUILD
+      run: now website/ --3D8Cixlgv5O6ARD8uuh1yxks
       env:
         CI: true
-      working-directory: ./website
