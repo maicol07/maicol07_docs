@@ -18,6 +18,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: ZEIT now BUILD
-      run: now website/ --3D8Cixlgv5O6ARD8uuh1yxks
+      run: now website/ --token 3D8Cixlgv5O6ARD8uuh1yxks
       env:
         CI: true
