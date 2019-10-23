@@ -7,8 +7,8 @@ jobs:
     name: Test
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: borales/actions-yarn@v2.0.0
-        with:
-          cmd: build # will run `yarn build` command
-          working-directory: ./website/
+        - uses: actions/checkout@master
+        - uses: actions/setup-node@master
+          with:
+            node-version: 12.x 
+        - run: npm build
