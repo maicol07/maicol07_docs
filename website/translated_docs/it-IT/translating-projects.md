@@ -11,7 +11,7 @@ You need to sign up and get an account in our [Translation platform](https://tra
 ![Sign up](../../img/translators_guide_signup.png)
 
 ## 2. Select a project and accept the agreement
-Once you have signed up and logged in, go to the home page of the translation platform and find the project you want to translate. Click on it and you will see a yellow box. This means that to start translating a project you need to accept project agreeement to start. Do it and you're ready to go!
+Once you have signed up and logged in, go to the home page of the translation platform and find the project you want to translate. Click on it and you will see a yellow box. This means that to start translating a project you need to accept project agreement to start. Do it and you're ready to go!
 
 ## 3. Select a secondary language
 The next step is selecting one or more secondary languages. Source strings are in Italian, so you need to see in another language if you don't understand Italian.
