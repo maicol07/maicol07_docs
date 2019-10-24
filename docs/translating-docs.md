@@ -11,7 +11,7 @@ You need to follow some steps in order to start translating a project.
 You need to sign up and get an account in our [Crowdin page](https://maicol07.crowdin.com/maicol07-docs).
 
 ## 2. Select a project and accept the agreement
-Once you have signed up and logged in, you can click on Translate.
+Once you have signed up and logged in, you can click on Translate and select your language. If your language is not listed ask for it in our [community](https://community.maicol07.it)
 
 ## 3. (Optional) Translator badge
 If you want to get all the news and updates about translating the projects or just talk about this in our community,
