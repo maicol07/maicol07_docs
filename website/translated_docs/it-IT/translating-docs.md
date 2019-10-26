@@ -1,15 +1,15 @@
 ---
 id: translating-docs
-title: Translating docs
+title: Tradurre la documentazione
 ---
 
-If you came here across the web, you want to become one of our translators. As you may know, we offer community-crowded translations, which means that our translations are made by community users like you. So, how can you become a translator? You need to follow some steps in order to start translating a project.
+Se sei venuto qui dalla rete, vuoi diventare uno dei nostri traduttori. Come potresti sapere, offriamo traduzioni della community, il che significa che le nostre traduzioni sono effettuate da utenti della community come te. Quindi, come puoi diventare un traduttore? Devi seguire alcuni passi per iniziare a tradurre un progetto.
 
-## 1. Sign up on the translation platform
-You need to sign up and get an account in our [Crowdin page](https://maicol07.crowdin.com/maicol07-docs).
+## 1. Iscriviti alla piattaforma di traduzione
+Devi iscriverti e ottenere un account nella nostra pagina [Crowdin](https://maicol07.crowdin.com/maicol07-docs).
 
-## 2. Select a project and accept the agreement
-Once you have signed up and logged in, you can click on Translate and select your language. If your language is not listed ask for it in our [community](https://community.maicol07.it)
+## 2. Seleziona un progetto e accetta l'accordo
+Una volta che ti sei registrato e hai effettuato l'accesso, puoi cliccare su Traduci e selezionare la tua lingua. Se la tua lingua non è nella lista, chiedi di di farlo nella nostra [Community](https://community.maicol07.it)
 
-## 3. (Optional) Translator badge
-If you want to get all the news and updates about translating the projects or just talk about this in our community, you can request access to translators "Translators Space", a reserved community category dedicated only to translators.
+## 3. (Opzionale) Distintivo del traduttore
+Se vuoi ricevere tutte le notizie e gli aggiornamenti sulla traduzione dei progetti o semplicemente parlarne nella nostra community, puoi richiedere l'accesso a "Translators Space", una categoria riservata della community dedicata solo ai traduttori.
