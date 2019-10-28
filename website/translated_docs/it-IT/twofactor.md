@@ -1,25 +1,25 @@
 ---
 id: twofactor
-title: Two Factor Authentication
+title: Autenticazione a due fattori
 ---
 
-This guide will show you how to enable 2FA authentication in your account in Maicol07's Network.
+Questa guida ti mostrerà come abilitare l'autenticazione a due fattori (2FA) nel tuo account nella rete Maicol07.
 
-## 1. Go to the settings page
-First, you want to login and go to your account settings. Click on your account image on the top-right corner of the screen and select Settings.
+## 1. Vai alla pagina delle impostazioni
+In primo luogo, si desidera accedere e andare alle impostazioni del tuo account. Clicca sull'immagine del tuo account nell'angolo in alto a destra dello schermo e seleziona Impostazioni.
 
-## 2. Enable 2FA: 1st step
-Once you have reached Settings page, you'll need to scroll until you see 2FA authentication section. Click on Enable: a popup will appear with detailed instructions (reported below) Download [Authy](https://authy.com/download/) for your preferred device (Desktop or phone) and OS (Windows, Mac OS, Linux, Android, iOS)
+## 2. Attiva 2FA: 1° passo
+Una volta raggiunta la pagina Impostazioni, dovrai scorrere fino a quando non vedrai la sezione di autenticazione a due fattori. Clicca su Attiva: un popup apparirà con istruzioni dettagliate (riportate sotto) Scarica [Authy](https://authy.com/download/) per il tuo dispositivo preferito (Desktop o telefono) e SO (Windows, Mac OS, Linux, Android, iOS)
 
-## 3. Enable 2FA: 2nd step
-Once you have installed Authy, you need to configure it following the app instructions. Then, you'll need to enter your phone number (the one registered in Authy) into the popup.
+## 3. Attiva 2FA: 2° passo
+Una volta installata Authy, devi configurarla seguendo le istruzioni dell'app. Quindi, dovrai inserire il tuo numero di telefono (quello registrato in Authy) nel popup.
 
-*Please note that your phone number will only be used for 2FA and not for any other scope*
+*Si prega di notare che il numero di telefono verrà utilizzato solo per 2FA e non per qualsiasi altro ambito*
 
-## 4. Enable 2FA: 3rd step
-A notify will now appear in your phone (or any other devices with Authy installed). Click on it and enter into the popup the code displayed
+## 4. Attiva 2FA: 3° passo
+Una notifica verrà ora visualizzata nel tuo telefono (o in qualsiasi altro dispositivo con Authy installato). Clicca su di essa e inserisci il codice visualizzato nel popup
 
-## 5. Finished!
-Your account now is secured with 2FA! Your 2FA code will now be requested all the times you'll login (also with OAuth).
+## 5. Terminato!
+Il tuo account è ora protetto con 2FA! Your 2FA code will now be requested all the times you'll login (also with OAuth).
 
 <small>Note: Your 2FA code changes every 20 seconds, for security reasons</small>
