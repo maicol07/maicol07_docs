@@ -20,6 +20,6 @@ Una volta installata Authy, devi configurarla seguendo le istruzioni dell'app. Q
 Una notifica verrà ora visualizzata nel tuo telefono (o in qualsiasi altro dispositivo con Authy installato). Clicca su di essa e inserisci il codice visualizzato nel popup
 
 ## 5. Terminato!
-Il tuo account è ora protetto con 2FA! Your 2FA code will now be requested all the times you'll login (also with OAuth).
+Il tuo account è ora protetto con 2FA! Il tuo codice 2FA verrà richiesto tutte le volte che effettuerai l'accesso (anche con OAuth).
 
-<small>Note: Your 2FA code changes every 20 seconds, for security reasons</small>
+<small>Nota: il tuo codice 2FA cambia ogni 20 secondi, per motivi di sicurezza</small>
