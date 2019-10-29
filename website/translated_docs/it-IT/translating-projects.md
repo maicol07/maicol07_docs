@@ -1,11 +1,11 @@
 ---
 id: translating-projects
-title: Translating projects
+title: Tradurre i progetti
 ---
 
-If you came here across the web, you want to become one of our translators. As you may know, we offer community-crowded translations, which means that our translations are made by community users like you. So, how can you become a translator? You need to follow some steps in order to start translating a project.
+Se sei venuto qui dalla rete, vuoi diventare uno dei nostri traduttori. Come potresti sapere, offriamo traduzioni della community, il che significa che le nostre traduzioni sono effettuate da utenti della community come te. Quindi, come puoi diventare un traduttore? Devi seguire alcuni passi per iniziare a tradurre un progetto.
 
-## 1. Sign up on the translation platform
+## 1. Iscriviti alla piattaforma di traduzione
 You need to sign up and get an account in our [Translation platform](https://translate.maicol07.it).
 
 ![Sign up](../../img/translators_guide_signup.png)
