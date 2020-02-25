@@ -1,3 +1,3 @@
 cd build/maicol07-docs
-call now --prod
+call now --dev
 pause
