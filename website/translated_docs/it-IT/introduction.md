@@ -1,6 +1,6 @@
 ---
 id: introduction
-title: Introduction
+title: Introduzione
 ---
 
-You can find here documentation for our projects. Select one from the sidebar on the left and start browsing!
+Puoi trovare qui la documentazione per i nostri progetti. Selezionare uno dalla barra laterale a sinistra e iniziare a navigare!

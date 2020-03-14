@@ -1,29 +1,29 @@
 ---
 id: translating-projects
-title: Translating projects
+title: Tradurre i progetti
 ---
 
-If you came here across the web, you want to become one of our translators. As you may know, we offer community-crowded translations, which means that our translations are made by community users like you. So, how can you become a translator? You need to follow some steps in order to start translating a project.
+Se sei venuto qui dalla rete, vuoi diventare uno dei nostri traduttori. Come potresti sapere, offriamo traduzioni della community, il che significa che le nostre traduzioni sono effettuate da utenti della community come te. Quindi, come puoi diventare un traduttore? Devi seguire alcuni passi per iniziare a tradurre un progetto.
 
-## 1. Sign up on the translation platform
-You need to sign up and get an account in our [Translation platform](https://translate.maicol07.it).
+## 1. Iscriviti alla piattaforma di traduzione
+Devi iscriverti e ottenere un account nella nostra [Piattaforma di traduzione](https://translate.maicol07.it).
 
-![Sign up](../../img/translators_guide_signup.png)
+![Iscriviti](../../img/translators_guide_signup.png)
 
-## 2. Select a project and accept the agreement
-Once you have signed up and logged in, go to the home page of the translation platform and find the project you want to translate. Click on it and you will see a yellow box. This means that to start translating a project you need to accept project agreeement to start. Do it and you're ready to go!
+## 2. Seleziona un progetto e accetta l'accordo
+Una volta che hai effettuato l'iscrizione e l'accesso, vai alla pagina iniziale della piattaforma di traduzione e trova il progetto che vuoi tradurre. Fai clic su di esso e vedrai un riquadro giallo. Questo significa che per iniziare a tradurre un progetto devi accettare l'accordo del progetto. Fallo e sei pronto per partire!
 
-## 3. Select a secondary language
-The next step is selecting one or more secondary languages. Source strings are in Italian, so you need to see in another language if you don't understand Italian.
+## 3. Selezionare una lingua secondaria
+Il prossimo passo è la selezione di una o più lingue secondarie. Le stringhe originali sono in italiano, quindi è necessario vederle in un'altra lingua se non si comprende l'italiano.
 
-Let's try to set English as our secondary language.
-1. Go to Your account → Settings at the top-right corner of the page (see image for reference). ![Secondary language: Accessing to account settings](../../img/translators_guide_secondary_language_1.png)
-2. Select all English variants in the Secondary language section (this is valid for English and other languages too. Select languages you understand that you will be seen above source string) ![Secondary language: Setting secondary languages](../../img/translators_guide_secondary_language_2.png)
+Proviamo a impostare l'inglese come nostra lingua secondaria.
+1. Vai su Il tuo account → Impostazioni nell'angolo in alto a destra della pagina (vedi immagine per il riferimento). ![Lingua secondaria: Accesso alle impostazioni dell'account](../../img/translators_guide_secondary_language_1.png)
+2. Seleziona tutte le varianti inglesi nella sezione lingua secondaria (questo è valido anche per l'inglese e altre lingue. Seleziona le lingue che capisci che saranno visibili sopra la stringa originale) ![Lingua secondaria: Impostazione delle lingue secondarie](../../img/translators_guide_secondary_language_2.png)
 
-## 4. Start translating!
-You're now ready to start translating a project! Select one and enjoy your time with our translation platform!
+## 4. Inizia a tradurre!
+Ora sei pronto per iniziare a tradurre un progetto! Selezionane uno e goditi il tuo tempo con la nostra piattaforma di traduzione!
 
-## 5. (Optional) Translator badge
-If you want to get all the news and updates about translating the projects or just talk about this in our community, you can request access to translators "Translators Space", a reserved community category dedicated only to translators.
+## 5. (Opzionale) Distintivo del traduttore
+Se vuoi ricevere tutte le notizie e gli aggiornamenti sulla traduzione dei progetti o semplicemente parlarne nella nostra community, puoi richiedere l'accesso a "Translators Space", una categoria riservata della community dedicata solo ai traduttori.
 
-<small>Our translation platform is powered by [Weblate](https://weblate.org)</small>
+<small>La nostra piattaforma di traduzione è offerta da [Weblate](https://weblate.org)</small>
