@@ -3,14 +3,16 @@
         "examples": "docusaurus-examples",
         "start": "docusaurus-start",
         "build": "docusaurus-build",
+        "deploy-dev": "deploy_dev",
+        "deploy-prod": "deploy_prod",
         "publish-gh-pages": "docusaurus-publish",
         "write-translations": "docusaurus-write-translations",
         "version": "docusaurus-version",
         "rename-version": "docusaurus-rename-version",
-        "crowdin-upload": "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
-        "crowdin-download": "crowdin --config ../crowdin.yaml download -b master"
+        "crowdin-upload": "crowdin upload sources --config ../crowdin.yaml --auto-update -b master",
+        "crowdin-download": "crowdin download --config ../crowdin.yaml -b master"
     },
     "devDependencies": {
-        "docusaurus": "^1.12.0"
+        "docusaurus": "^1"
     }
 }

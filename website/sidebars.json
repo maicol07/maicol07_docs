@@ -1,16 +1,39 @@
 {
     "docs": {
-        "Docs": [
-            "introduction",
+        "Introduction": ["introduction"],
+        "Maicol07 Account": [
+            "account/introduction",
+            "account/login_signup",
+            "account/info",
+            "account/twofactor"
+        ],
+        "Scheduled Exams": [
+            "scheduled_exams/introduction",
             {
                 "type": "subcategory",
-                "label": "Maicol07 Account",
+                "label": "Classrooms",
                 "ids": [
-                    "twofactor"
+                    "scheduled_exams/classroom/create",
+                    "scheduled_exams/classroom/edit",
+                    "scheduled_exams/classroom/students_manage",
+                    "scheduled_exams/classroom/delete"
+                ]
+            },
+            {
+                "type": "subcategory",
+                "label": "Lists",
+                "ids": [
+                    "scheduled_exams/list/create",
+                    "scheduled_exams/list/edit",
+                    "scheduled_exams/list/delete",
+                    "scheduled_exams/list/row_create",
+                    "scheduled_exams/list/row_edit",
+                    "scheduled_exams/list/row_move",
+                    "scheduled_exams/list/row_delete"
                 ]
             }
         ],
-        "Translating projects": [
+        "Translation guide": [
             "translating-projects",
             "translating-docs"
         ]

@@ -5,8 +5,53 @@
     "previous": "Previous",
     "tagline": "Documentation for all Maicol07 Projects",
     "docs": {
+      "account/info": {
+        "title": "Manage account info"
+      },
+      "account/introduction": {
+        "title": "Introduction"
+      },
+      "account/login_signup": {
+        "title": "Login and signup"
+      },
       "introduction": {
         "title": "Introduction"
+      },
+      "scheduled_exams/classroom/create": {
+        "title": "Creation"
+      },
+      "scheduled_exams/classroom/delete": {
+        "title": "Deleting"
+      },
+      "scheduled_exams/classroom/edit": {
+        "title": "Editing"
+      },
+      "scheduled_exams/classroom/students_manage": {
+        "title": "Students management"
+      },
+      "scheduled_exams/introduction": {
+        "title": "Introduction"
+      },
+      "scheduled_exams/list/create": {
+        "title": "Creation"
+      },
+      "scheduled_exams/list/delete": {
+        "title": "Deleting"
+      },
+      "scheduled_exams/list/edit": {
+        "title": "Editing"
+      },
+      "scheduled_exams/list/row_create": {
+        "title": "Row creation"
+      },
+      "scheduled_exams/list/row_delete": {
+        "title": "Row deletion"
+      },
+      "scheduled_exams/list/row_edit": {
+        "title": "Row edit"
+      },
+      "scheduled_exams/list/row_move": {
+        "title": "Moving a row"
       },
       "translating-docs": {
         "title": "Translating docs"
@@ -24,17 +69,19 @@
       "Help": "Help"
     },
     "categories": {
-      "Docs": "Docs",
-      "Translating projects": "Translating projects"
+      "Introduction": "Introduction",
+      "Maicol07 Account": "Maicol07 Account",
+      "Scheduled Exams": "Scheduled Exams",
+      "Translation guide": "Translation guide"
     }
   },
   "pages-strings": {
     "Learn more using the [documentation on this site.](/docs/en/introduction.html)|no description given": "Learn more using the [documentation on this site.](/docs/en/introduction.html)",
     "Browse Docs|no description given": "Browse Docs",
-    "Ask questions about the documentation and project|no description given": "Ask questions about the documentation and project",
+    "Ask questions about the documentation and project [in our community](https://community.maicol07.it)|no description given": "Ask questions about the documentation and project [in our community](https://community.maicol07.it)",
     "Join the community|no description given": "Join the community",
     "Find out what's new with this project|no description given": "Find out what's new with this project",
-    "Stay up to date|no description given": "Stay up to date",
+    "Stay up to date with our [releases page](https://github.com/maicol07/maicol07_docs/releases)|no description given": "Stay up to date with our [releases page](https://github.com/maicol07/maicol07_docs/releases)",
     "Need help?|no description given": "Need help?",
     "This project is maintained by a single developer.|no description given": "This project is maintained by a single developer.",
     "Go to Docs|no description given": "Go to Docs",

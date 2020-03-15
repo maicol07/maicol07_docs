@@ -29,14 +29,14 @@ class Help extends React.Component {
       {
         content: (
             <translate>
-              Ask questions about the documentation and project <a href="https://community.maicol07.it">here</a>
+              Ask questions about the documentation and project [in our community](https://community.maicol07.it)
             </translate>
         ),
         title: <translate>Join the community</translate>,
       },
       {
         content: <translate>Find out what's new with this project</translate>,
-        title: <translate>Stay up to date</translate>,
+        title: <translate>Stay up to date with our [releases page](https://github.com/maicol07/maicol07_docs/releases)</translate>,
       },
     ];
 
