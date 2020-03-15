@@ -6,22 +6,22 @@
     "tagline": "Documentazione per tutti i progetti Maicol07",
     "docs": {
       "account/info": {
-        "title": "Manage account info"
+        "title": "Gestisci informazioni account"
       },
       "account/introduction": {
         "title": "Introduzione"
       },
       "account/login_signup": {
-        "title": "Login and signup"
+        "title": "Accedi e registrati"
       },
       "introduction": {
         "title": "Introduzione"
       },
       "scheduled_exams/classroom/create": {
-        "title": "Creation"
+        "title": "Creazione"
       },
       "scheduled_exams/classroom/delete": {
-        "title": "Deleting"
+        "title": "Eliminazione"
       },
       "scheduled_exams/classroom/edit": {
         "title": "Editing"
