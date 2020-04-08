@@ -14,6 +14,21 @@
       "account/login_signup": {
         "title": "Accedi e registrati"
       },
+      "flarum_sso/introduction": {
+        "title": "Introduction"
+      },
+      "flarum_sso/plugin/config": {
+        "title": "Configuration"
+      },
+      "flarum_sso/plugin/install": {
+        "title": "Installation"
+      },
+      "flarum_sso/plugin/introduction": {
+        "title": "Introduction"
+      },
+      "flarum_sso/plugin/pro": {
+        "title": "PRO features"
+      },
       "introduction": {
         "title": "Introduzione"
       },
@@ -72,6 +87,7 @@
       "Introduction": "Introduzione",
       "Maicol07 Account": "Maicol07 Account",
       "Scheduled Exams": "Interrogazioni Programmate",
+      "Flarum SSO Extension": "Flarum SSO Extension",
       "Translation guide": "Guida alla traduzione"
     }
   },
