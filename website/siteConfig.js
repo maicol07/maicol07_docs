@@ -43,7 +43,15 @@ const siteConfig = {
         // Highlight.js theme to use for syntax highlighting in code blocks.
         theme: 'default',
     },
-    scripts: ['https://buttons.github.io/buttons.js'],
+    scripts: [
+        'https://buttons.github.io/buttons.js',
+        'https://www.paypal.com/sdk/js?client-id=AVHHiqyKT1tDIYnUl4hjQnoRD0nFcMKbJmYHqs4nfsfyPBDvyTp7bYksDRxK5AvaQk4nPTFOWAutIKoQ&currency=EUR&vault=true',
+        'https://cdn.jsdelivr.net/npm/sweetalert2@9',
+        'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
+        '/js/code-block-buttons.js',
+        '/js/functions.js',
+        '/js/custom.js'
+    ],
     onPageNav: 'separate',
     cleanUrl: true,
     ogImage: 'img/undraw_online.svg',
