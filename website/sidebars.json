@@ -33,6 +33,19 @@
                 ]
             }
         ],
+        "Flarum SSO Extension": [
+            "flarum_sso/introduction",
+            {
+                "type": "subcategory",
+                "label": "Plugin",
+                "ids": [
+                    "flarum_sso/plugin/introduction",
+                    "flarum_sso/plugin/install",
+                    "flarum_sso/plugin/config",
+                    "flarum_sso/plugin/pro"
+                ]
+            }
+        ],
         "Translation guide": [
             "translating-projects",
             "translating-docs"
