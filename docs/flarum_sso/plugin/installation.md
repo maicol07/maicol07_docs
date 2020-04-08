@@ -36,9 +36,15 @@ You can find the plugin in the WordPress plugin Directory. So you can
 download it from your WP site in Plugins --> Add new.
 
 ### Manual installation
-1. Download the `wp` folder you can find inside the `sample-website`
-   folder into the plugin folder (`/wp-content/plugins/`) of your
-   WordPress instance.
+Download the zip from the
+[releases page](https://github.com/maicol07/flarum_sso_wp_plugin/releases)
+and upload it to WordPress
+
+### Manual compilation
+1. Download the
+   [wp plugin repo](https://github.com/maicol07/flarum_sso_wp_plugin)
+   into the plugin folder (`/wp-content/plugins/`) of your WordPress
+   instance.
 2. Rename it to a name of your choice (e.g. `flarum-sso-extension`).
 3. You have to install the dependencies with Composer
    [(?)](https://github.com/delight-im/Knowledge/blob/master/Composer%20(PHP).md).
