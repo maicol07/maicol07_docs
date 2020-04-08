@@ -45,7 +45,7 @@ const siteConfig = {
     },
     scripts: [
         'https://buttons.github.io/buttons.js',
-        'https://www.paypal.com/sdk/js?client-id=AVHHiqyKT1tDIYnUl4hjQnoRD0nFcMKbJmYHqs4nfsfyPBDvyTp7bYksDRxK5AvaQk4nPTFOWAutIKoQ&currency=EUR&vault=true',
+        'https://www.paypal.com/sdk/js?client-id=AcAuyiGwc51zR5KhP99xpkwEu3DuCjQYNhOCKV7_yJTTqcJPOc1HzAL_QO69K_oGSt4C02xtbZLRNqxK&currency=EUR&vault=true',
         'https://cdn.jsdelivr.net/npm/sweetalert2@9',
         'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
         '/js/code-block-buttons.js',
