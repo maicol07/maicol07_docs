@@ -31,7 +31,7 @@ You can also install this by downloading the entire package but then it would be
 Before the following steps, be sure to have done pre-installation steps.
 ### Automatic installation
 You can find the plugin in the
-[WordPress plugin Directory](https://it.wordpress.org/plugins/sso-flarum/).
+[WordPress plugin Directory](https://wordpress.org/plugins/sso-flarum/).
 So you can download it from your WP site in Plugins --> Add new.
 
 ### Manual installation
