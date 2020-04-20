@@ -29,6 +29,9 @@
       "flarum_sso/plugin/pro": {
         "title": "PRO features"
       },
+      "flarum_sso/plugin/upgrade": {
+        "title": "Upgrading"
+      },
       "introduction": {
         "title": "Introduction"
       },

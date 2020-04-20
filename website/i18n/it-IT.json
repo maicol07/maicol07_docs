@@ -5,8 +5,68 @@
     "previous": "Precedente",
     "tagline": "Documentazione per tutti i progetti Maicol07",
     "docs": {
+      "account/info": {
+        "title": "Gestisci informazioni account"
+      },
+      "account/introduction": {
+        "title": "Introduzione"
+      },
+      "account/login_signup": {
+        "title": "Accedi e registrati"
+      },
+      "flarum_sso/introduction": {
+        "title": "Introduzione"
+      },
+      "flarum_sso/plugin/config": {
+        "title": "Configuration"
+      },
+      "flarum_sso/plugin/install": {
+        "title": "Installation"
+      },
+      "flarum_sso/plugin/introduction": {
+        "title": "Introduzione"
+      },
+      "flarum_sso/plugin/pro": {
+        "title": "PRO features"
+      },
       "introduction": {
         "title": "Introduzione"
+      },
+      "scheduled_exams/classroom/create": {
+        "title": "Creazione"
+      },
+      "scheduled_exams/classroom/delete": {
+        "title": "Eliminazione"
+      },
+      "scheduled_exams/classroom/edit": {
+        "title": "Modifica"
+      },
+      "scheduled_exams/classroom/students_manage": {
+        "title": "Gestione degli studenti"
+      },
+      "scheduled_exams/introduction": {
+        "title": "Introduzione"
+      },
+      "scheduled_exams/list/create": {
+        "title": "Creazione"
+      },
+      "scheduled_exams/list/delete": {
+        "title": "Eliminazione"
+      },
+      "scheduled_exams/list/edit": {
+        "title": "Modifica"
+      },
+      "scheduled_exams/list/row_create": {
+        "title": "Creazione riga"
+      },
+      "scheduled_exams/list/row_delete": {
+        "title": "Eliminazione riga"
+      },
+      "scheduled_exams/list/row_edit": {
+        "title": "Modifica riga"
+      },
+      "scheduled_exams/list/row_move": {
+        "title": "Spostamento riga"
       },
       "translating-docs": {
         "title": "Tradurre la documentazione"
@@ -24,17 +84,20 @@
       "Help": "Aiuto"
     },
     "categories": {
-      "Docs": "Documentazione",
-      "Translating projects": "Tradurre i progetti"
+      "Introduction": "Introduzione",
+      "Maicol07 Account": "Maicol07 Account",
+      "Scheduled Exams": "Interrogazioni Programmate",
+      "Flarum SSO Extension": "Flarum SSO Extension",
+      "Translation guide": "Guida alla traduzione"
     }
   },
   "pages-strings": {
     "Learn more using the [documentation on this site.](/docs/en/introduction.html)|no description given": "Ulteriori informazioni leggendo la [documentazione su questo sito.](/docs/it/introduction.html)",
     "Browse Docs|no description given": "Sfoglia documentazione",
-    "Ask questions about the documentation and project|no description given": "Chiedi informazioni sulla documentazione e il progetto",
+    "Ask questions about the documentation and project [in our community](https://community.maicol07.it)|no description given": "Fai domande sulla documentazione e sul progetto [nella nostra comunità](https://community.maicol07.it)",
     "Join the community|no description given": "Unisciti alla community",
     "Find out what's new with this project|no description given": "Scopri cosa c'è di nuovo con questo progetto",
-    "Stay up to date|no description given": "Rimani aggiornato",
+    "Stay up to date with our [releases page](https://github.com/maicol07/maicol07_docs/releases)|no description given": "Rimani aggiornato con la nostra [pagina di releas](https://github.com/maicol07/maicol07_docs/releases)",
     "Need help?|no description given": "Hai bisogno di aiuto?",
     "This project is maintained by a single developer.|no description given": "Questo progetto è mantenuto da un singolo sviluppatore.",
     "Go to Docs|no description given": "Vai alla documentazione",

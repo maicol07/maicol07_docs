@@ -12,9 +12,11 @@ class.
 
 Basically, you need to do this:
 1. Create a Flarum object with your configuration. See [here](#settings)
-   for parameters explanation. Do your action (login, logout or delete).
-   There is a method in this lib for any of these actions.
-3. (OPTIONAL) Redirect to Flarum with the `redirectToFlarum` method
+   for parameters explanation.
+2. Do your action (login, logout or delete). There is a method in this
+   lib for any of these actions.
+
+If you have trouble with the plugin API, you can check the [API docs](https://maicol07.github.io/flarum_sso_php_plugin)
 
 ## WordPress
 You can open settings of the plugin from the Settings --> Flarum SSO
