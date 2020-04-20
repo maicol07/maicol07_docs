@@ -1,7 +1,7 @@
 const plans = {
-    basic: 'P-54M52379YS4428036L2G6KII',
+    basic: 'P-1FN31054DU650140EL2HCVHA',
     medium: 'P-3ML46717470701928L2G6LQQ',
-    advanced: 'P-7DB01938NB262832FL2G6L6Y'
+    advanced: 'P-3HG35635KA7576848L2HCVYQ'
 }
 forEach(plans, (id, name) => {
     paypal.Buttons({

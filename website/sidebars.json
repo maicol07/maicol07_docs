@@ -42,7 +42,9 @@
                     "flarum_sso/plugin/introduction",
                     "flarum_sso/plugin/install",
                     "flarum_sso/plugin/config",
-                    "flarum_sso/plugin/pro"
+                    "flarum_sso/plugin/upgrade",
+                    "flarum_sso/plugin/pro",
+                    { "href": "https://maicol07.github.io/flarum_sso_php_plugin", "label": "PHP Plugin API Docs" }
                 ]
             }
         ],
