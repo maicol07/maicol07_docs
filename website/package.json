@@ -1,11 +1,13 @@
 {
+    "license": "AGPL-3.0-or-later",
     "scripts": {
         "examples": "docusaurus-examples",
         "start": "docusaurus-start",
         "build": "docusaurus-build",
         "local-dev": "yarn run start",
-        "deploy-dev": "yarn run write-translations && yarn run build && cd build/maicol07-docs && now",
-        "deploy-prod": "yarn run write-translations && yarn run crowdin-download && yarn run build && cd build/maicol07-docs && now --prod && yarn run crowdin-upload",
+        "deploy-dev": "yarn run write-translations && yarn run build && cd build/maicol07-docs && vc",
+        "deploy-prod": "yarn run write-translations && yarn run crowdin-download && yarn run build && cd build/maicol07-docs && vc --prod && yarn run crowdin-upload",
+        "dev-to-prod": "cd build/maicol07-docs && vc --prod && yarn run crowdin-upload",
         "write-translations": "docusaurus-write-translations",
         "version": "docusaurus-version",
         "rename-version": "docusaurus-rename-version",
