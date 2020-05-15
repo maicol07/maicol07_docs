@@ -9,6 +9,9 @@ moment!**
 Pro features are features available after a payment. These features
 involve also integrations with other frameworks/plugins.
 
+Current available PRO features:
+- [Memberpress](https://memberpress.com) plugin integration (set groups)
+
 There are currently 3 plans:
 
 |                             | PRO BASIC                                | PRO MEDIUM                                | PRO ADVANCED                                |
@@ -29,7 +32,7 @@ announced on the [community](https://community.maicol07.it).
 Price changes will be very rare and will not affect your current
 subscription  
 If you want to unlink a site from your license please write on the
-[community](https://community.maicol07.it) in the Flarum SSO Extension
---> PRO plans requests. Do not include the license number on the
+[community](https://community.maicol07.it) in the Other projects →
+Flarum SSO Extension. Do not include the license number on the
 community!! An admin will send you a private message asking you more
 information.</small>
